@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 # YouZhe
 
 [![YouZhe's GitHub stats](https://github-readme-stats.vercel.app/api?username=youzhe0305&theme=gotham)](https://github.com/youzhe0305)
-![MyBlog](https://youzhe0305.github.io/)
+
+[MyBlog](https://youzhe0305.github.io/)
