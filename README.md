@@ -16,15 +16,5 @@ Here are some ideas to get you started:
 -->
 # YouZhe
 
-[![YouZhe's GitHub stats](https://github-readme-stats.vercel.app/api?username=a40693651&theme=gotham)](https://github.com/a40693651)
-
-## My Language & Tool
-
-<div style=" display:flex; flex-wrap:wrap ">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg"  width="10%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"  width="10%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"  width="10%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="10%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"  width="10%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"  width="10%">
-</div>
+[![YouZhe's GitHub stats](https://github-readme-stats.vercel.app/api?username=youzhe0305&theme=gotham)](https://github.com/youzhe0305)
+![MyBlog](https://youzhe0305.github.io/)
