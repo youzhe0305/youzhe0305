@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 [![YouZhe's GitHub stats](https://github-readme-stats.vercel.app/api?username=youzhe0305&theme=gotham)](https://github.com/youzhe0305)
 
-[MyBlog](https://youzhe0305.github.io/)
+[Personal Website]([https://youzhe0305.github.io/](https://www.youzhexie.me/))
